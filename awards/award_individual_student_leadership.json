@@ -1,0 +1,29 @@
+{
+    "sessionYear": 2022,
+    "userType": "Student",
+    "schoolID": "SCH001",
+    "schoolName": "SOMENAME",
+    "distID": "DIST01",
+    "StudentList": [
+      {
+        "UIN": "some uin",
+        "SchoolID": "some id",
+        "GTOTAL": "SOME TOTAL",
+        "Percentage": "somepercentage",
+        "Rank": 34,
+        "Gender": "M",
+        "Evidence": "some data",
+        "SelectedBy": "some name",
+        "bankDetails": {
+          "beneficiaryName": "some name",
+          "branchName": "some name",
+          "branchAddr": "some name",
+          "branchCode": "some name",
+          "accountNo": "some name",
+          "accountType": "some name",
+          "branchIFSC": "some name"
+        }
+      }
+    ]
+  }
+

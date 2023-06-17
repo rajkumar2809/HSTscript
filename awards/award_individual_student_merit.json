@@ -1,0 +1,26 @@
+ {
+    "UIN": "UIN12312",
+    "CNAME": "SOME_NAME",
+    "GENDER": "M",
+    "SchoolID": "SCH1231",
+    "SchoolName": "SCH1231",
+    "Percentage": 98,
+    "GTOTAL": 567,
+    "GRADE": "B2",
+    "Rank": 78,
+    "EvidencePath": "SOMEPATH",
+    "SelectedBy": "SOMENAME",
+    "DistrictID": "DIST01",
+    "BlockName": "SOMEBLOCK NAME",
+    "blockID": "SOMEBLOCK iD",
+    "Status": "SOME STATUS",
+    "bankDetails": {
+      "beneficiaryName": "SOME beneficiaryName",
+      "branchName": "SOME branchName",
+      "branchAddr": "SOME branchAddr",
+      "branchCode": "SOME branchCode",
+      "accountNo": "SOME accountNo",
+      "accountType": "SOME accountType",
+      "branchIFSC": "SOME branchIFSC"
+    }
+  }
