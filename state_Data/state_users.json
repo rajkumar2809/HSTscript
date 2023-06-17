@@ -1,0 +1,20 @@
+[
+    {
+        "userID": "ST001",
+        "userDetails": {
+        "name": "OSEPA",
+        "username": "osepa",
+        "password": "ss123",
+        "status": "active"
+        }
+    },
+    {
+    "userID": "ST002",
+    "userDetails": {
+        "name": "STATE_USER",
+        "username": "state_user",
+        "password": "ss123",
+        "status": "active"
+    }
+    }
+]
